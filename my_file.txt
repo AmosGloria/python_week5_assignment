@@ -1,0 +1,6 @@
+First line: Hello, world!
+Second line: Number 42
+Third line: Python is fun!
+Fourth line: Appending more text.
+Fifth line: Another line of text.
+Sixth line: Python file handling is easy!
